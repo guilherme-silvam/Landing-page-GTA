@@ -15,7 +15,7 @@ O Projeto Landing Page GTA é uma aplicação web que tem como objetivo objetivo
 
 ## Instalação
 
-1. Clone este repositório: `git clone https://github.com/seu-usuario/projeto-xyz.git`
+1. Clone este repositório: `git clone https://github.com/guilherme-silvam/Landing-page-GTA.git`
 2. Abra o arquivo `index.html` em seu navegador web.
 
 ## Como Usar
